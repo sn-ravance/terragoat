@@ -1,5 +1,7 @@
 [![Code Scanning - Action](https://github.com/sn-ravance/terragoat/actions/workflows/codeql.yml/badge.svg)](https://github.com/sn-ravance/terragoat/actions/workflows/codeql.yml)
 
+[![Snyk Infrastructure as Code](https://github.com/sn-ravance/terragoat/actions/workflows/snyk-infrastructure.yml/badge.svg?branch=main&event=issues)](https://github.com/sn-ravance/terragoat/actions/workflows/snyk-infrastructure.yml)
+
 
 
 # TerraGoat - Vulnerable Terraform Infrastructure
